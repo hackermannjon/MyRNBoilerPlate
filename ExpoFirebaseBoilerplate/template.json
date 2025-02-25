@@ -1,0 +1,5 @@
+{
+  "placeholderName": "MyNewApp",
+  "templateFiles": ["./"],
+  "postInstall": "echo '🚀 Projeto criado com sucesso! Agora rode: cd MyNewApp && npm install && npx expo start'"
+}
